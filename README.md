@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--
-**limaomi/limaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindos ao meu perfil :limaomi
+Meu nome é Mirela - estou estudando Alura
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
